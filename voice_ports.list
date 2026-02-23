@@ -1,10 +1,10 @@
 # WhatsApp / Telegram / FaceTime — голос
-DST-PORT,3478,PROXY
-DST-PORT,3480,PROXY
-DST-PORT,3484,PROXY
+DST-PORT,3478
+DST-PORT,3480
+DST-PORT,3484
 # WhatsApp — видео
-DST-PORT,5222,PROXY
+DST-PORT,5222
 # Telegram — голос и видео
-DST-PORT,596-599,PROXY
+DST-PORT,596-599
 # TCP порт для сигнальных звонков Telegram
-DST-PORT,1400,PROXY
+DST-PORT,1400
